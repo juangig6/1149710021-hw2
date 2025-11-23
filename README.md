@@ -139,9 +139,9 @@ python run_all.py
 
 ## 🤝 作者
 
-- **姓名**：莊一桂
+- **姓名**：Yi-Kuei,Chuang
 - **學號**：114971021
-- **課程**：自然語言處理
+- **課程**：生成式AI
 
 ## 📅 更新日誌
 
@@ -157,3 +157,4 @@ python run_all.py
 
 
 如有任何問題或建議，歡迎提出 Issue 或 Pull Request！
+
